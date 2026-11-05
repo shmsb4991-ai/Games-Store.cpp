@@ -35,5 +35,6 @@ int main ()
    }
    int cash = 15000;
     std :: cout <<"Your remaining Cash is " << cash << " Please spend with Caution \n";
-   return 0; 
+   return 0;
+}
 
